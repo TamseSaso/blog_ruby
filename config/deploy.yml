@@ -2,7 +2,7 @@
 service: blog
 
 # Name of the container image.
-image: TamseSaso/blog_ruby
+image: tamsesaso/blog_ruby
 
 # Deploy to these servers.
 servers:
